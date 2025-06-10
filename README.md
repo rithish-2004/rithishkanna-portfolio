@@ -1,6 +1,6 @@
 # 💼 Rithish Kanna - Portfolio
 
-Welcome to my personal portfolio website! This platform showcases my journey as a developer, including my skills, projects, internships, achievements, and more. The website is built using **React.js** with a **dark theme** and **fully responsive design** to deliver a modern and accessible user experience.
+Welcome to my personal portfolio website! This platform showcases my journey as a developer, including my skills, projects, internships, achievements, and more. The website is built using **React.js** with a **dark & light mode** Switch and **fully responsive design** to deliver a modern and accessible user experience.
 
 🔗 **[View Live Site](https://rithishkanna-portfolio.vercel.app)**
 
@@ -12,10 +12,10 @@ This portfolio includes the following sections:
 
 1. **Home** – Introduction with tagline, role, and call-to-action button.
 2. **About** – A quick overview of my background, interests, and goals.
-3. **Coding Profiles** – Links to my LeetCode, HackerRank, GitHub, etc.
+3. **Coding Profiles** – Links to my LeetCode, HackerRank, GitHub, etc
 4. **Skills** – Technical skills categorized by frontend, backend, tools, and languages.
-5. **Projects** – A showcase of selected projects with descriptions and links.
-6. **Internship** – Details of internship experience at AARL Infotech.
+5. **Projects** – A showcase of selected projects with descriptions and github links.
+6. **Internship** – Details of internship experience at AAREL Infotech.
 7. **Achievements** – Academic and competitive accomplishments.
 8. **Roles & Responsibilities** – Leadership, volunteering, and mentoring roles.
 9. **Certificates** – Recognized online certifications and achievements.
@@ -30,7 +30,6 @@ This portfolio includes the following sections:
 - 📱 **Responsive Design** – Optimized for all screen sizes.
 - ⚛️ **Built with React.js** – Component-based architecture.
 - ✨ **Animations** – Subtle motion effects for better UX.
-- 📬 **Functional Contact Form** – Integrated with EmailJS or Firebase.
 
 ---
 
