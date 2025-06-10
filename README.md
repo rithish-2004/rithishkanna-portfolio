@@ -1,4 +1,4 @@
-# 💼 Rithish Kanna - Portfolio
+# Rithish Kanna - Portfolio
 
 Welcome to my personal portfolio website! This platform showcases my journey as a developer, including my skills, projects, internships, achievements, and more. The website is built using **React.js** with a **dark & light mode** Switch and **fully responsive design** to deliver a modern and accessible user experience.
 
@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This platform showcases my journey as 
 
 ---
 
-## 📚 Overview
+## Overview
 
 This portfolio includes the following sections:
 
@@ -24,16 +24,16 @@ This portfolio includes the following sections:
 
 ---
 
-## 🎨 Features
+## Features
 
-- 🌙 **Dark Theme** – Smooth dark UI with neon highlights.
-- 📱 **Responsive Design** – Optimized for all screen sizes.
-- ⚛️ **Built with React.js** – Component-based architecture.
-- ✨ **Animations** – Subtle motion effects for better UX.
+- **Dark Theme** – Smooth dark UI with neon highlights.
+- **Responsive Design** – Optimized for all screen sizes.
+- ⚛**Built with React.js** – Component-based architecture.
+- **Animations** – Subtle motion effects for better UX.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React.js, HTML5, CSS3 (or Tailwind CSS)
 - **Build Tool**: Vite
@@ -41,7 +41,7 @@ This portfolio includes the following sections:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone the repository
